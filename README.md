@@ -1,4 +1,4 @@
-# Stock predictions ai app
+# Stock predictions
 
 This app uses OpenAI and the Polygon AI to create predictions.
 
